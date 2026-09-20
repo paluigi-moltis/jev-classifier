@@ -1,0 +1,11 @@
+text,label
+"My card was charged twice this month, please refund the duplicate charge.",billing
+"Where is my invoice for the September subscription?",billing
+"The app crashes every time I open the settings page.",technical
+"API integration returns error 500 since yesterday's deploy.",technical
+"Do you offer discounts for annual plans?",sales
+"I want to upgrade my account to the enterprise tier.",sales
+"Your support has been ignoring me for a week. Terrible service!",billing
+"Can I change the email address on my account?",support
+"The dashboard shows the wrong currency for my region.",technical
+"I'm considering cancelling if this isn't fixed today.",billing
